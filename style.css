@@ -1,0 +1,194 @@
+/* lighter - #33C8FF and Darker - #00BAFF */
+/*  family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal; */
+.img{
+    width:100%;
+    height: 100%;
+    position:absolute;
+    background-image: url('img4-2.png');
+    background-size:auto;
+    background-attachment: fixed;
+    opacity:1;
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    height: 90px;
+    width: 100%;
+}
+.header h1{
+    position: relative;
+    text-align: center;
+    margin:0%;
+    color: black;
+    top:20px;
+    font-family: "Poppins", serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size:xx-large;
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 5%;
+}
+.Nav{
+    width:100%;
+    height: 70px;
+}
+.Nav .btn1{
+    position:relative;
+    height: 50px;
+    width: 180px;
+    top: 10px;
+    left: 30px;
+    background-color:#33C8FF;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 5%;
+    font-size: medium;
+}
+.Nav .btn1:hover{
+    text-decoration: underline;
+}
+.Nav .btn2{
+    position:relative;
+    height: 50px;
+    width: 180px;
+    top:25px;
+    left:60px;
+    background-color:#33C8FF;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    font-style: normal;
+    border-radius:5%;
+    font-size: medium;
+}
+.Nav .btn2:hover{
+    text-decoration: underline;
+}
+.Nav .btn3{
+    position:relative;
+    height: 50px;
+    width: 180px;
+    top:10px;
+    left:90px;
+    background-color:#33C8FF;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 5%;
+    font-size: medium;
+}
+.Nav .btn3:hover{
+    text-decoration: underline;
+}
+.Nav .btn4{
+    position:relative;
+    height: 50px;
+    width: 180px;
+    top:10px;
+    left:120px;
+    background-color:#33C8FF;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 5%;
+    font-size: medium;
+}
+.Nav .btn4:hover{
+    text-decoration: underline;
+}
+.Nav .btn5{
+    position:relative;
+    height: 50px;
+    width: 180px;
+    top:10px;
+    left:160px;
+    background-color:#33C8FF;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 5%;
+    font-size: medium;
+}
+.Nav .btn5:hover{
+    text-decoration: underline;
+}
+.Nav .btn6{
+    position:relative;
+    height: 50px;
+    width: 180px;
+    top:25px;
+    left:190px;
+    background-color:#33C8FF;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 5%;
+    font-size: medium;
+}
+.Nav .btn6:hover{
+    text-decoration: underline;
+}
+.Nav .btn7{
+    position:relative;
+    height: 50px;
+    width: 180px;
+    top:10px;
+    left:220px;
+    background-color:#33C8FF;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 5%;
+    font-size: medium;
+}
+.Nav .btn7:hover{
+    text-decoration: underline;
+}
+.blog1{
+    position: relative;
+    background-color: rgba(255,255,255,0.8);
+    top: 20px;
+    border-radius: 3%
+}
+.blog1 h2{
+    margin: 30px;
+}
+.blog1 p{
+    margin: 30px;
+}
+.blog2{
+    position: relative;
+    background-color: rgba(255,255,255,0.8);
+    top: 20px;
+    border-radius: 3%;
+}
+.blog2 h2{
+    margin: 30px;
+}
+.blog2 p{
+    margin: 30px;
+}
+.blog3{
+    position: relative;
+    background-color: rgba(255,255,255,0.8);
+    top: 20px;
+    border-radius: 3%;
+}
+.blog3 h2{
+    margin: 30px;
+}
+.blog3 p{
+    margin: 30px;
+}
+.footer{
+    text-align: center;
+    background-color: rgba(255,255,255,0.8);
+    position:relative;
+    top: 20px;
+    left: 33%;
+    height: 35px;
+    width: 550px;
+    border-radius: 15%;
+}
